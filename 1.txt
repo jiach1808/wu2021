@@ -1,0 +1,12 @@
+概念：
+
+Repository     (仓库)
+Star                 (收藏)
+Fork                 (克隆项目)
+pull request     拉去
+Watch             (关注)
+lssue               (bug建议)
+
+
+
+
